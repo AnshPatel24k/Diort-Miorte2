@@ -86,8 +86,8 @@ main{
   
   /* Style the video to fit the screen */
   #preloader video {
-    width: 50%;
-    height: 50%;
+    width: 20%;
+    height: 20%;
     object-fit: cover; /* Ensures the video covers the entire screen */
   }
   
